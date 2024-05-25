@@ -1,0 +1,75 @@
+2024-05-19 04:23:51.678 [info] Experiment 'pythonaacf' is active
+2024-05-19 04:23:51.678 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-19 04:23:51.678 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-19 04:23:51.678 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-19 04:23:51.678 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-19 04:23:51.678 [info] Experiment 'pythonTestAdapter' is active
+2024-05-19 04:23:51.678 [info] Python interpreter path: /bin/python
+2024-05-19 04:23:52.927 [info] Starting Pylance language server.
+2024-05-19 04:24:52.912 [info] Experiment 'pythonaacf' is active
+2024-05-19 04:24:52.912 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-19 04:24:52.912 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-19 04:24:52.912 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-19 04:24:52.912 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-19 04:24:52.912 [info] Experiment 'pythonTestAdapter' is active
+2024-05-19 04:24:52.912 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvim
+2024-05-19 04:24:52.912 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvimcp1
+2024-05-19 04:24:52.912 [info] Starting Environment refresh
+2024-05-19 04:24:52.912 [info] Starting Environment refresh
+2024-05-19 04:24:52.913 [info] Python interpreter path: /bin/python
+2024-05-19 04:24:52.918 [info] > hatch env show --json
+2024-05-19 04:24:52.918 [info] cwd: ~/.config/nvim
+2024-05-19 04:24:52.924 [info] > hatch env show --json
+2024-05-19 04:24:52.924 [info] cwd: ~/.config/nvimcp1
+2024-05-19 04:24:53.086 [info] Starting Environment refresh
+2024-05-19 04:24:53.349 [info] > /bin/python -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-19 04:24:53.349 [info] Environments refresh paths discovered: 442 milliseconds
+2024-05-19 04:24:53.349 [info] Environments refresh paths discovered: 442 milliseconds
+2024-05-19 04:24:53.368 [info] Environments refresh paths discovered: 282 milliseconds
+2024-05-19 04:24:53.384 [info] Environments refresh finished (event): 476 milliseconds
+2024-05-19 04:24:53.384 [info] Environments refresh finished (event): 477 milliseconds
+2024-05-19 04:24:53.384 [info] Environments refresh finished (event): 298 milliseconds
+2024-05-19 04:24:53.384 [info] Environment refresh took 477 milliseconds
+2024-05-19 04:24:53.385 [info] Environment refresh took 478 milliseconds
+2024-05-19 04:24:53.385 [info] Environment refresh took 299 milliseconds
+2024-05-19 04:24:53.389 [info] > pyenv which python
+2024-05-19 04:24:53.389 [info] cwd: ~/.config/nvim
+2024-05-19 04:24:54.420 [info] Starting Pylance language server.
+2024-05-19 04:28:50.221 [info] Experiment 'pythonaacf' is active
+2024-05-19 04:28:50.221 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-19 04:28:50.221 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-19 04:28:50.221 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-19 04:28:50.221 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-19 04:28:50.222 [info] Experiment 'pythonTestAdapter' is active
+2024-05-19 04:28:50.222 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvim
+2024-05-19 04:28:50.222 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvimcp1
+2024-05-19 04:28:50.222 [info] Python interpreter path: /bin/python
+2024-05-19 04:28:50.392 [info] > pyenv which python
+2024-05-19 04:28:50.392 [info] cwd: ~/.config/nvim
+2024-05-19 04:28:51.413 [info] Starting Pylance language server.
+2024-05-19 04:30:37.116 [info] Experiment 'pythonaacf' is active
+2024-05-19 04:30:37.116 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-19 04:30:37.116 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-19 04:30:37.116 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-19 04:30:37.116 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-19 04:30:37.116 [info] Experiment 'pythonTestAdapter' is active
+2024-05-19 04:30:37.116 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvim
+2024-05-19 04:30:37.116 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvimcp1
+2024-05-19 04:30:37.117 [info] Python interpreter path: /bin/python
+2024-05-19 04:30:37.160 [info] > pyenv which python
+2024-05-19 04:30:37.160 [info] cwd: ~/.config/nvim
+2024-05-19 04:30:38.336 [info] Starting Pylance language server.
+2024-05-19 04:30:39.530 [info] Discover tests for workspace name: nvim - uri: /home/colinkiesling/.config/nvim
+2024-05-19 04:30:39.530 [info] Discover tests for workspace name: nvimcp1 - uri: /home/colinkiesling/.config/nvimcp1
+2024-05-19 04:30:57.720 [info] Experiment 'pythonaacf' is active
+2024-05-19 04:30:57.720 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-19 04:30:57.720 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-19 04:30:57.720 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-19 04:30:57.720 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-19 04:30:57.720 [info] Experiment 'pythonTestAdapter' is active
+2024-05-19 04:30:57.720 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvim
+2024-05-19 04:30:57.720 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/colinkiesling/.config/nvimcp1
+2024-05-19 04:30:57.721 [info] Python interpreter path: /bin/python
+2024-05-19 04:30:57.962 [info] > pyenv which python
+2024-05-19 04:30:57.962 [info] cwd: ~/.config/nvim
+2024-05-19 04:30:59.064 [info] Starting Pylance language server.

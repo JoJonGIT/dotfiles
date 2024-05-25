@@ -1,0 +1,36 @@
+2024-05-18 23:29:12.189 [info] Using settings sync service https://vscode-sync-insiders.trafficmanager.net/
+2024-05-18 23:29:12.189 [info] Auto Sync is disabled.
+2024-05-18 23:29:22.357 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-05-18 23:29:30.035 [info] Sync started.
+2024-05-18 23:29:30.433 [info] Did reset the local sync state.
+2024-05-18 23:29:30.454 [info] Settings: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:30.455 [info] Settings: Last sync data state does not exist.
+2024-05-18 23:29:30.536 [info] Settings: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:30.536 [info] Settings: Last sync data state does not exist.
+2024-05-18 23:29:30.689 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:30.690 [info] GlobalState: Last sync data state does not exist.
+2024-05-18 23:29:30.837 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:30.837 [info] Keybindings: Last sync data state does not exist.
+2024-05-18 23:29:31.030 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:31.031 [info] Snippets: Last sync data state does not exist.
+2024-05-18 23:29:31.206 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:31.207 [info] Tasks: Last sync data state does not exist.
+2024-05-18 23:29:31.406 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:31.406 [info] GlobalState: Last sync data state does not exist.
+2024-05-18 23:29:31.839 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:31.839 [info] Extensions: Last sync data state does not exist.
+2024-05-18 23:29:32.103 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:32.103 [info] Profiles: Last sync data state does not exist.
+2024-05-18 23:29:32.191 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2024-05-18 23:29:32.192 [info] Profiles: Last sync data state does not exist.
+2024-05-18 23:29:32.222 [info] Settings: Updated local settings
+2024-05-18 23:29:32.228 [info] Settings: Updated last synchronized settings
+2024-05-18 23:29:32.240 [info] Keybindings: Updated local keybindings
+2024-05-18 23:29:32.244 [info] Keybindings: Updated last synchronized keybindings
+2024-05-18 23:29:32.245 [info] Snippets: No changes found during synchronizing snippets.
+2024-05-18 23:29:32.248 [info] Snippets: Updated last synchronized snippets
+2024-05-18 23:29:32.249 [info] Tasks: No changes found during synchronizing tasks.
+2024-05-18 23:29:32.252 [info] Tasks: Updated last synchronized tasks
+2024-05-18 23:29:32.261 [info] GlobalState: Updated global state ["nps/lastSessionDate","nps/sessionCount","memento/gettingStartedService","workbench.panel.alignment","ces/skipSurvey","workbench.view.extensions.state.hidden","workbench.panel.chatSidebar.hidden","workbench.welcomePage.walkthroughMetadata","Comments.hidden","workbench.view.extension.tabnine.state.hidden","github-SirCartierr","recently.opened","workbench.view.extension.github-pull-requests.state.hidden","workbench.auxiliarybar.pinnedPanels","views.customizations","inline-chat-history","workbench.view.extension.github-pull-request.state.hidden","remote.tunnels.toRestore.codespaces+ubiquitous-guacamole-pwvx4px76vr27x54.-1448149689","workbench.views.service.sidebar.296cf53f-1eed-4ae2-a200-fd94cdf5247b.state.hidden","workbench.views.service.sidebar.5fa42ebc-8e7a-4f65-b134-d9cf65ff6e77.state.hidden","userDataProfiles.state.hidden","github-ciesling","workbench.view.remote.state.hidden","workbench.telemetryOptOutShown","extensionsAssistant/ignored_recommendations","commandPalette.mru.cache","commandPalette.mru.counter","menu.hiddenCommands","workbench.view.extension.learn-vim-container.state.hidden","workbench.view.extension.bookmarks.state.hidden","workbench.view.extension.project-manager.state.hidden","workbench.view.extension.codestream-activitybar.state.hidden","workbench.view.extension.gitlens.state.hidden","workbench.view.extension.gitlensInspect.state.hidden","workbench.view.extension.todo-tree-container.state.hidden","workbench.view.extension.snippet-explorer.state.hidden","workbench.view.extension.liveshare.state.hidden","workbench.view.extension.gistpad.state.hidden","extensionsAssistant/deprecated","workbench.view.extension.test.state.hidden","workbench.welcomePage.hiddenCategories","memento/workbench.editor.keybindings","terminal.integrated.showTerminalConfigPrompt","remote.explorerType","workbench.views.service.sidebar.7fd34efb-5398-4332-8952-992e07a2d475.state.hidden","terminal.hidden","workbench.explorer.views.state.hidden","workbench.activityBar.location","workbench.activity.pinnedViewlets2","workbench.panel.pinnedPanels","cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","csharp.1.lastSessionDate","csharp.1.sessionCount","colorThemeData"]
+2024-05-18 23:29:32.261 [info] GlobalState: Updated local ui state
+2024-05-18 23:29:32.265 [info] GlobalState: Updated last synchronized ui state

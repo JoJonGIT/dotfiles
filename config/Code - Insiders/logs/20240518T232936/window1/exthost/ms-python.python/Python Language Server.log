@@ -1,0 +1,56 @@
+2024-05-18 23:30:39.318 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-18 23:30:39.765 [info] [Info  - 11:30:39 PM] (18635) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-18 23:30:39.765 [info] [Info  - 11:30:39 PM] (18635) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-18 23:30:39.787 [info] [Info  - 11:30:39 PM] Auto-Indent enabled
+2024-05-18 23:30:39.788 [info] [Info  - 11:30:39 PM] (18635) Starting service instance "<default>"
+2024-05-18 23:30:39.803 [info] [Info  - 11:30:39 PM] Auto-Indent enabled
+2024-05-18 23:30:39.804 [info] [Info  - 11:30:39 PM] (18635) Setting pythonPath for service "<default>": "/bin/python"
+2024-05-18 23:30:39.804 [info] [Info  - 11:30:39 PM] (18635) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-05-18 23:30:39.823 [info] [Info  - 11:30:39 PM] (18635) Assuming Python version 3.12.3.final.0
+2024-05-18 23:30:39.937 [info] [Info  - 11:30:39 PM] (18635) No source files found.
+2024-05-18 23:30:39.958 [info] [Info  - 11:30:39 PM] Auto-Indent enabled
+2024-05-18 23:30:39.958 [info] [Info  - 11:30:39 PM] (18635) Setting pythonPath for service "<default>": "/bin/python"
+2024-05-18 23:30:39.958 [info] [Info  - 11:30:39 PM] (18635) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-05-18 23:30:39.979 [info] [Info  - 11:30:39 PM] (18635) Assuming Python version 3.12.3.final.0
+2024-05-18 23:30:40.080 [info] [Info  - 11:30:40 PM] (18635) No source files found.
+2024-05-18 23:30:40.082 [info] [Info  - 11:30:40 PM] Auto-Indent enabled
+2024-05-18 23:30:40.218 [info] [Info  - 11:30:40 PM] (18635) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-18 23:30:40.220 [info] [Info  - 11:30:40 PM] (18635) Background analysis(1) started
+2024-05-18 23:34:10.339 [info] [Info  - 11:34:10 PM] Server process exited successfully
+2024-05-18 23:34:10.854 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-18 23:34:11.347 [info] [Info  - 11:34:11 PM] (19069) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-18 23:34:11.347 [info] [Info  - 11:34:11 PM] (19069) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-18 23:34:11.363 [info] [Info  - 11:34:11 PM] Auto-Indent enabled
+2024-05-18 23:34:11.364 [info] [Info  - 11:34:11 PM] (19069) Starting service instance "<default>"
+2024-05-18 23:34:11.382 [info] [Info  - 11:34:11 PM] Auto-Indent enabled
+2024-05-18 23:34:11.382 [info] [Info  - 11:34:11 PM] (19069) Setting pythonPath for service "<default>": "/bin/python"
+2024-05-18 23:34:11.382 [info] [Info  - 11:34:11 PM] (19069) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-05-18 23:34:11.404 [info] [Info  - 11:34:11 PM] (19069) Assuming Python version 3.12.3.final.0
+2024-05-18 23:34:11.499 [info] [Info  - 11:34:11 PM] (19069) No source files found.
+2024-05-18 23:34:11.522 [info] [Info  - 11:34:11 PM] Auto-Indent enabled
+2024-05-18 23:34:11.522 [info] [Info  - 11:34:11 PM] (19069) Setting pythonPath for service "<default>": "/bin/python"
+2024-05-18 23:34:11.522 [info] [Info  - 11:34:11 PM] (19069) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-05-18 23:34:11.544 [info] [Info  - 11:34:11 PM] (19069) Assuming Python version 3.12.3.final.0
+2024-05-18 23:34:11.648 [info] [Info  - 11:34:11 PM] (19069) No source files found.
+2024-05-18 23:34:11.650 [info] [Info  - 11:34:11 PM] Auto-Indent enabled
+2024-05-18 23:34:11.790 [info] [Info  - 11:34:11 PM] (19069) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-18 23:34:11.792 [info] [Info  - 11:34:11 PM] (19069) Background analysis(1) started
+2024-05-18 23:34:51.721 [info] [Info  - 11:34:51 PM] Server process exited successfully
+2024-05-18 23:34:52.237 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-18 23:34:52.705 [info] [Info  - 11:34:52 PM] (19147) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-18 23:34:52.705 [info] [Info  - 11:34:52 PM] (19147) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-18 23:34:52.717 [info] [Info  - 11:34:52 PM] Auto-Indent enabled
+2024-05-18 23:34:52.718 [info] [Info  - 11:34:52 PM] (19147) Starting service instance "<default>"
+2024-05-18 23:34:52.735 [info] [Info  - 11:34:52 PM] Auto-Indent enabled
+2024-05-18 23:34:52.737 [info] [Info  - 11:34:52 PM] (19147) Setting pythonPath for service "<default>": "/bin/python"
+2024-05-18 23:34:52.737 [info] [Info  - 11:34:52 PM] (19147) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-05-18 23:34:52.758 [info] [Info  - 11:34:52 PM] (19147) Assuming Python version 3.12.3.final.0
+2024-05-18 23:34:52.855 [info] [Info  - 11:34:52 PM] (19147) No source files found.
+2024-05-18 23:34:52.877 [info] [Info  - 11:34:52 PM] Auto-Indent enabled
+2024-05-18 23:34:52.878 [info] [Info  - 11:34:52 PM] (19147) Setting pythonPath for service "<default>": "/bin/python"
+2024-05-18 23:34:52.878 [info] [Info  - 11:34:52 PM] (19147) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-05-18 23:34:52.900 [info] [Info  - 11:34:52 PM] (19147) Assuming Python version 3.12.3.final.0
+2024-05-18 23:34:53.000 [info] [Info  - 11:34:53 PM] (19147) No source files found.
+2024-05-18 23:34:53.002 [info] [Info  - 11:34:53 PM] Auto-Indent enabled
+2024-05-18 23:34:53.150 [info] [Info  - 11:34:53 PM] (19147) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-18 23:34:53.152 [info] [Info  - 11:34:53 PM] (19147) Background analysis(1) started

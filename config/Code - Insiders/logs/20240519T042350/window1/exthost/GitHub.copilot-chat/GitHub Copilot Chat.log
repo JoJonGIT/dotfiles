@@ -1,0 +1,54 @@
+2024-05-19 04:23:52.157 [info] [FetcherService] Using Helix fetcher
+2024-05-19 04:23:52.157 [info] [gitExtensionService] Initializing Git extension service.
+2024-05-19 04:23:52.157 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-05-19 04:23:52.157 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-05-19 04:23:52.157 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-05-19 04:23:52.313 [info] [auth] Logged in as ciesling
+2024-05-19 04:23:52.677 [info] [chat] copilot token chat_enabled: true
+2024-05-19 04:23:52.677 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-05-19 04:23:52.678 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-05-19 04:23:52.690 [info] [auth] Got Copilot token for ciesling
+2024-05-19 04:24:53.364 [info] [FetcherService] Using Helix fetcher
+2024-05-19 04:24:53.364 [info] [gitExtensionService] Initializing Git extension service.
+2024-05-19 04:24:53.364 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-05-19 04:24:53.364 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-05-19 04:24:53.364 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-05-19 04:24:53.616 [info] [auth] Logged in as ciesling
+2024-05-19 04:24:54.195 [info] [chat] copilot token chat_enabled: true
+2024-05-19 04:24:54.195 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-05-19 04:24:54.195 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-05-19 04:24:54.208 [info] [auth] Got Copilot token for ciesling
+2024-05-19 04:28:55.976 [info] [FetcherService] Using Helix fetcher
+2024-05-19 04:28:55.976 [info] [gitExtensionService] Initializing Git extension service.
+2024-05-19 04:28:55.976 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-05-19 04:28:55.976 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-05-19 04:28:55.976 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-05-19 04:28:56.144 [info] [auth] Logged in as ciesling
+2024-05-19 04:28:56.454 [info] [chat] copilot token chat_enabled: true
+2024-05-19 04:28:56.455 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-05-19 04:28:56.455 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-05-19 04:28:56.469 [info] [auth] Got Copilot token for ciesling
+2024-05-19 04:30:36.948 [info] [FetcherService] Using the Helix fetcher.
+2024-05-19 04:30:36.948 [info] [gitExtensionService] Initializing Git extension service.
+2024-05-19 04:30:36.948 [info] [auth] Logged in as ciesling
+2024-05-19 04:30:37.145 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-05-19 04:30:37.145 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-05-19 04:30:37.145 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-05-19 04:30:37.682 [info] [chat] copilot token chat_enabled: true
+2024-05-19 04:30:37.682 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-05-19 04:30:37.682 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-05-19 04:30:37.695 [info] [auth] Got Copilot token for ciesling
+2024-05-19 04:30:38.626 [info] [RemoteAgents] Invalid remote agent response: 404 page not found
+ (SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5))
+2024-05-19 04:30:57.694 [info] [FetcherService] Using the Helix fetcher.
+2024-05-19 04:30:57.694 [info] [gitExtensionService] Initializing Git extension service.
+2024-05-19 04:30:57.743 [info] [auth] Logged in as ciesling
+2024-05-19 04:30:57.936 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-05-19 04:30:57.936 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-05-19 04:30:57.936 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-05-19 04:30:58.729 [info] [chat] copilot token chat_enabled: true
+2024-05-19 04:30:58.729 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-05-19 04:30:58.729 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-05-19 04:30:58.742 [info] [auth] Got Copilot token for ciesling
+2024-05-19 04:30:59.326 [info] [RemoteAgents] Invalid remote agent response: 404 page not found
+ (SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5))

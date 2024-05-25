@@ -1,0 +1,498 @@
+2024-05-19 04:23:51.290 [info] Extension host with pid 112605 started
+2024-05-19 04:23:51.353 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-19 04:23:51.358 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-05-19 04:23:51.606 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-19 04:23:51.679 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:23:51.697 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:23:51.914 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-19 04:23:51.916 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-05-19 04:23:51.927 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-19 04:23:51.944 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 04:23:51.985 [info] Eager extensions activated
+2024-05-19 04:23:52.004 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:23:52.005 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:23:52.010 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:23:52.011 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:23:52.033 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:23:52.083 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:23:52.086 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:23:52.693 [error] Error: chatParticipant must be declared in package.json: github.copilot.default
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:23:52.693 [error] Error: chatParticipant must be declared in package.json: github.copilot.editor
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:23:52.693 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:23:52.693 [error] Error: No agent with handle 1 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:23:52.700 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:23:52.729 [error] Error: Chat response provider uses UNKNOWN vendor github.copilot-chat.
+    at i.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:20257)
+    at i.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1653:1413)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:23:52.749 [error] Error: Chat response provider uses UNKNOWN vendor github.copilot-chat.
+    at i.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:20257)
+    at i.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1653:1413)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:24:51.031 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-19 04:24:51.059 [info] Extension host with pid 112605 exiting with code 0
+2024-05-19 04:24:52.658 [info] Extension host with pid 112977 started
+2024-05-19 04:24:52.658 [info] Skipping acquiring lock for /home/colinkiesling/.config/Code - Insiders/User/workspaceStorage/aee0086072c6eb9696d34ae39f53f395.
+2024-05-19 04:24:52.662 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-19 04:24:52.666 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-05-19 04:24:52.806 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-19 04:24:52.817 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onCommand:vscode-html-css.validate'
+2024-05-19 04:24:52.929 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:24:52.942 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:24:53.097 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-19 04:24:53.099 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-05-19 04:24:53.111 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-19 04:24:53.127 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 04:24:53.171 [info] Eager extensions activated
+2024-05-19 04:24:53.207 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:24:53.208 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:24:53.213 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:24:53.234 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:24:53.285 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:24:53.287 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:24:54.213 [error] Error: chatParticipant must be declared in package.json: github.copilot.default
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:24:54.213 [error] Error: chatParticipant must be declared in package.json: github.copilot.editor
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:24:54.214 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:24:54.214 [error] Error: No agent with handle 1 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:24:54.218 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:24:54.349 [error] Error: Chat response provider uses UNKNOWN vendor github.copilot-chat.
+    at i.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:20257)
+    at i.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1653:1413)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:24:54.372 [error] Error: Chat response provider uses UNKNOWN vendor github.copilot-chat.
+    at i.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:20257)
+    at i.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1653:1413)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:28:49.604 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-19 04:28:49.622 [info] Extension host with pid 112977 exiting with code 0
+2024-05-19 04:28:49.942 [info] Extension host with pid 113974 started
+2024-05-19 04:28:49.942 [info] Skipping acquiring lock for /home/colinkiesling/.config/Code - Insiders/User/workspaceStorage/aee0086072c6eb9696d34ae39f53f395.
+2024-05-19 04:28:49.946 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-19 04:28:49.951 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-05-19 04:28:50.096 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-19 04:28:50.108 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onCommand:vscode-html-css.validate'
+2024-05-19 04:28:50.223 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:28:50.239 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:28:50.431 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-19 04:28:50.432 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-05-19 04:28:50.443 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-19 04:28:50.459 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 04:28:50.501 [info] Eager extensions activated
+2024-05-19 04:28:50.522 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:28:50.523 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:28:50.527 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:28:50.551 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:28:50.553 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:28:55.576 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:28:55.631 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:28:56.474 [error] Error: chatParticipant must be declared in package.json: github.copilot.default
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:28:56.474 [error] Error: chatParticipant must be declared in package.json: github.copilot.editor
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:28:56.475 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:28:56.475 [error] Error: No agent with handle 1 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:28:56.487 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:28:56.512 [error] Error: Chat response provider uses UNKNOWN vendor github.copilot-chat.
+    at i.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:20257)
+    at i.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1653:1413)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:28:56.535 [error] Error: Chat response provider uses UNKNOWN vendor github.copilot-chat.
+    at i.registerLanguageModelChat (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1641:20257)
+    at i.$registerLanguageModelProvider (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1653:1413)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:36.069 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-19 04:30:36.140 [info] Extension host with pid 113974 exiting with code 0
+2024-05-19 04:30:36.474 [info] Extension host with pid 114383 started
+2024-05-19 04:30:36.474 [info] Skipping acquiring lock for /home/colinkiesling/.config/Code - Insiders/User/workspaceStorage/aee0086072c6eb9696d34ae39f53f395.
+2024-05-19 04:30:36.478 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-19 04:30:36.482 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-05-19 04:30:36.633 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-19 04:30:36.645 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onCommand:vscode-html-css.validate'
+2024-05-19 04:30:36.646 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onCommand:github.copilot.interactiveEditor.explain'
+2024-05-19 04:30:36.883 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2024-05-19 04:30:36.927 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2024-05-19 04:30:36.953 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:30:36.971 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:30:37.479 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 04:30:37.485 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-05-19 04:30:37.498 [info] Eager extensions activated
+2024-05-19 04:30:37.502 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:37.503 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:37.509 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:37.531 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:37.608 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:37.611 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:37.703 [error] Error: chatParticipant must be declared in package.json: github.copilot.default
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:37.704 [error] Error: chatParticipant must be declared in package.json: github.copilot.editor
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:37.704 [error] Error: chatParticipant must be declared in package.json: github.copilot.notebook
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:37.704 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:37.705 [error] Error: No agent with handle 1 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:37.705 [error] Error: No agent with handle 2 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:37.710 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:56.990 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-19 04:30:57.069 [info] Extension host with pid 114383 exiting with code 0
+2024-05-19 04:30:57.358 [info] Extension host with pid 114541 started
+2024-05-19 04:30:57.359 [info] Skipping acquiring lock for /home/colinkiesling/.config/Code - Insiders/User/workspaceStorage/aee0086072c6eb9696d34ae39f53f395.
+2024-05-19 04:30:57.368 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-19 04:30:57.373 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-05-19 04:30:57.519 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-19 04:30:57.530 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onCommand:vscode-html-css.validate'
+2024-05-19 04:30:57.532 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onCommand:github.copilot.interactiveEditor.explain'
+2024-05-19 04:30:57.679 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2024-05-19 04:30:57.723 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2024-05-19 04:30:57.748 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:30:57.763 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-05-19 04:30:58.369 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 04:30:58.393 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-05-19 04:30:58.416 [info] Eager extensions activated
+2024-05-19 04:30:58.418 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:58.419 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:58.423 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:58.445 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:58.500 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:58.503 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:30:58.750 [error] Error: chatParticipant must be declared in package.json: github.copilot.default
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:58.750 [error] Error: chatParticipant must be declared in package.json: github.copilot.editor
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:58.750 [error] Error: chatParticipant must be declared in package.json: github.copilot.notebook
+    at f.$registerAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:133602)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12029)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:58.751 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:58.751 [error] Error: No agent with handle 1 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:58.751 [error] Error: No agent with handle 2 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:30:58.761 [error] Error: No agent with handle 0 registered
+    at f.$updateAgent (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:2385:134644)
+    at f.S (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13952)
+    at f.Q (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:13718)
+    at f.M (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:12811)
+    at f.L (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:11890)
+    at a.value (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1660:10677)
+    at g.y (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:659)
+    at g.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:89:876)
+    at r.fire (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:629:14491)
+    at W.onmessage (vscode-file://vscode-app/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:8043)
+2024-05-19 04:31:11.639 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-19 04:31:11.788 [info] Extension host with pid 114541 exiting with code 0

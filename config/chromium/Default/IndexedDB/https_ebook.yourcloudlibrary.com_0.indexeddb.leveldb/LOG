@@ -1,0 +1,10 @@
+2024/05/09-11:30:04.129 1522d Creating DB /home/colinkiesling/.config/chromium/Default/IndexedDB/https_ebook.yourcloudlibrary.com_0.indexeddb.leveldb since it was missing.
+2024/05/09-11:30:04.135 1522d Reusing MANIFEST /home/colinkiesling/.config/chromium/Default/IndexedDB/https_ebook.yourcloudlibrary.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/09-11:30:04.157 15231 Level-0 table #5: started
+2024/05/09-11:30:04.161 15231 Level-0 table #5: 689 bytes OK
+2024/05/09-11:30:04.168 15231 Delete type=0 #3
+2024/05/09-11:30:04.169 15231 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/09-11:30:04.171 15231 Level-0 table #7: started
+2024/05/09-11:30:04.175 15231 Level-0 table #7: 760 bytes OK
+2024/05/09-11:30:04.182 15231 Delete type=0 #4
+2024/05/09-11:30:04.183 1522d Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

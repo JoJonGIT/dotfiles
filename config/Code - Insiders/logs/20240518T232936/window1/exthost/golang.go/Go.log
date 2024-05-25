@@ -1,0 +1,9 @@
+2024-05-18 23:34:56.391 [info] Tools environment: GOPATH=/home/colinkiesling/go
+2024-05-18 23:34:56.391 [info] Installing 2 tools at /home/colinkiesling/go/bin
+2024-05-18 23:34:56.391 [info]   gopls
+2024-05-18 23:34:56.391 [info]   staticcheck
+2024-05-18 23:34:56.391 [info] 
+2024-05-18 23:35:12.051 [info] Installing golang.org/x/tools/gopls@latest (/home/colinkiesling/go/bin/gopls) SUCCEEDED
+2024-05-18 23:35:17.096 [info] Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/colinkiesling/go/bin/staticcheck) SUCCEEDED
+2024-05-18 23:35:17.096 [info] 
+2024-05-18 23:35:17.096 [info] All tools successfully installed. You are ready to Go. :)

@@ -1,0 +1,27 @@
+2024/05/19-08:04:21.437 4 Reusing MANIFEST /home/colinkiesling/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/05/19-08:04:21.445 4 Recovering log #86
+2024/05/19-08:04:21.447 4 Reusing old log /home/colinkiesling/.config/chromium/Default/Local Storage/leveldb/000086.log 
+2024/05/19-08:08:49.685 4 Level-0 table #90: started
+2024/05/19-08:08:49.765 4 Level-0 table #90: 39853 bytes OK
+2024/05/19-08:08:49.772 4 Delete type=0 #86
+2024/05/19-08:11:00.250 6 Level-0 table #92: started
+2024/05/19-08:11:00.257 6 Level-0 table #92: 46521 bytes OK
+2024/05/19-08:11:00.264 6 Delete type=0 #89
+2024/05/19-08:11:00.266 6 Compacting 4@0 + 1@1 files
+2024/05/19-08:11:00.291 6 Generated table #93@0: 447 keys, 315507 bytes
+2024/05/19-08:11:00.291 6 Compacted 4@0 + 1@1 files => 315507 bytes
+2024/05/19-08:11:00.296 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/19-08:11:00.297 6 Delete type=2 #82
+2024/05/19-08:11:00.298 6 Delete type=2 #84
+2024/05/19-08:11:00.298 6 Delete type=2 #87
+2024/05/19-08:11:00.298 6 Delete type=2 #90
+2024/05/19-08:11:00.298 6 Delete type=2 #92
+2024/05/19-08:19:24.129 6 Level-0 table #95: started
+2024/05/19-08:19:24.138 6 Level-0 table #95: 37460 bytes OK
+2024/05/19-08:19:24.145 6 Delete type=0 #91
+2024/05/19-08:21:35.658 6 Level-0 table #97: started
+2024/05/19-08:21:35.666 6 Level-0 table #97: 35926 bytes OK
+2024/05/19-08:21:35.673 6 Delete type=0 #94
+2024/05/19-08:47:34.726 6 Level-0 table #99: started
+2024/05/19-08:47:34.734 6 Level-0 table #99: 17224 bytes OK
+2024/05/19-08:47:34.742 6 Delete type=0 #96

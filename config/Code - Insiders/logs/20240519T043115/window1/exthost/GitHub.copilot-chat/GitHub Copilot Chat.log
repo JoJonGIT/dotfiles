@@ -1,0 +1,41 @@
+2024-05-19 04:31:18.955 [info] [FetcherService] Using the Helix fetcher.
+2024-05-19 04:31:18.955 [info] [gitExtensionService] Initializing Git extension service.
+2024-05-19 04:31:18.955 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-05-19 04:31:18.955 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-05-19 04:31:18.955 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-05-19 04:31:18.955 [info] [auth] Logged in as ciesling
+2024-05-19 04:31:19.521 [info] [chat] copilot token chat_enabled: true
+2024-05-19 04:31:19.521 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-05-19 04:31:19.521 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-05-19 04:31:19.544 [info] [auth] Got Copilot token for ciesling
+2024-05-19 04:31:20.309 [info] [RemoteAgents] Invalid remote agent response: 404 page not found
+ (SyntaxError: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5))
+2024-05-19 04:32:40.924 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 2042 ms
+2024-05-19 04:33:02.043 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-05-19 04:33:02.048 [info] [streamChoices] request done: requestId: [c825c1c0-fa48-4375-a559-61db7205688e] model deployment ID: [zd564f7006c5c]
+2024-05-19 04:33:02.650 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 544 ms
+2024-05-19 04:33:02.654 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-05-19 04:33:02.655 [info] [streamChoices] request done: requestId: [927ec9d1-b215-4330-9ed9-d757f00821f8] model deployment ID: [zb2890b3247b6]
+2024-05-19 04:33:16.461 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1988 ms
+2024-05-19 04:33:42.594 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-05-19 04:33:42.595 [info] [streamChoices] request done: requestId: [5c1ee06b-765d-4df1-b01c-8a351f9a44de] model deployment ID: [zd564f7006c5c]
+2024-05-19 04:33:43.197 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 584 ms
+2024-05-19 04:33:43.291 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-05-19 04:33:43.292 [info] [streamChoices] request done: requestId: [ce2aa7d2-0699-44cb-99f0-32b9299fffea] model deployment ID: [zb2890b3247b6]
+2024-05-19 04:36:51.971 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1670 ms
+2024-05-19 04:37:46.954 [info] [streamChoices] request done: requestId: [8f1e5982-34bd-45a3-827b-1c72a51e903a] model deployment ID: [zd564f7006c5c]
+2024-05-19 04:37:48.383 [info] [extension] Error: Sorry, this message is too long. Please try a shorter question.
+    at it.render (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:791:3606)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at t.buildPrompt (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:791:3288)
+    at F6._provideResponseWithProgress (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:867:840)
+    at F6.provideResponseWithProgress (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:865:8991)
+    at n.y (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:877:1970)
+    at i.$invokeAgent (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:45525)
+2024-05-19 04:56:19.554 [info] [auth] Logged in as ciesling
+2024-05-19 04:56:20.006 [info] [chat] copilot token chat_enabled: true
+2024-05-19 04:56:20.006 [info] [auth] Got Copilot token for ciesling
+2024-05-19 05:21:20.010 [info] [auth] Logged in as ciesling
+2024-05-19 05:21:20.673 [info] [chat] copilot token chat_enabled: true
+2024-05-19 05:21:20.673 [info] [auth] Got Copilot token for ciesling
+2024-05-19 05:46:20.794 [info] [auth] Logged in as ciesling

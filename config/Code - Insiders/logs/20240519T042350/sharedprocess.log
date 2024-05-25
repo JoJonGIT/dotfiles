@@ -1,0 +1,63 @@
+2024-05-19 04:23:51.514 [info] Deleted uninstalled extension from disk ericsia.pythonsnippets3 /home/colinkiesling/.vscode-insiders/extensions/ericsia.pythonsnippets3-3.3.20
+2024-05-19 04:23:51.600 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/ericsia.pythonsnippets3-3.3.20.-582eb2a7.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/ericsia.pythonsnippets3-3.3.20.-582eb2a7.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-19 04:28:46.646 [info] Uninstalling extension from the profile: github.copilot-chat@0.15.2 vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:28:46.672 [info] Marked extension as uninstalled github.copilot-chat-0.15.2
+2024-05-19 04:28:46.750 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-19 04:28:46.961 [info] Successfully uninstalled extension from the profile github.copilot-chat@0.15.2 vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:28:54.214 [info] Getting Manifest... github.copilot-chat
+2024-05-19 04:28:54.222 [info] Installing extension: github.copilot-chat vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:28:54.529 [info] Getting Manifest... github.copilot
+2024-05-19 04:28:54.595 [info] Installing extension: github.copilot vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:28:54.688 [info] Removed the extension from uninstalled list: github.copilot-chat
+2024-05-19 04:28:54.998 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 7ms.
+2024-05-19 04:28:55.220 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/github.copilot-1.194.0: github.copilot
+2024-05-19 04:28:55.226 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/github.copilot-1.194.0
+2024-05-19 04:28:55.293 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:28:55.293 [info] Extension installed successfully: github.copilot vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:28:55.317 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-19 04:29:06.351 [info] Getting Manifest... github.copilot-chat
+2024-05-19 04:29:06.355 [info] Installing extension: github.copilot-chat vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:29:06.443 [info] Getting Manifest... github.copilot
+2024-05-19 04:29:07.209 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 6ms.
+2024-05-19 04:29:07.324 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702: github.copilot-chat
+2024-05-19 04:29:07.329 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702
+2024-05-19 04:29:07.390 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:29:07.391 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-19 04:30:53.052 [info] Getting Manifest... pkief.material-icon-theme
+2024-05-19 04:30:53.287 [info] Installing extension: pkief.material-icon-theme vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:30:53.993 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 5ms.
+2024-05-19 04:30:54.395 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/pkief.material-icon-theme-5.3.0: pkief.material-icon-theme
+2024-05-19 04:30:54.400 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/pkief.material-icon-theme-5.3.0
+2024-05-19 04:30:54.461 [info] Marked extension as uninstalled pkief.material-icon-theme-5.1.0
+2024-05-19 04:30:54.471 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-19 04:30:54.484 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)

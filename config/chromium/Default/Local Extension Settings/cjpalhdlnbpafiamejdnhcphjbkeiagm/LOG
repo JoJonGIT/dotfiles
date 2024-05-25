@@ -1,0 +1,32 @@
+2024/05/19-08:04:21.737 517 Reusing MANIFEST /home/colinkiesling/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/05/19-08:04:21.738 517 Recovering log #111
+2024/05/19-08:04:21.739 517 Reusing old log /home/colinkiesling/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000111.log 
+2024/05/19-09:05:01.324 508 Level-0 table #115: started
+2024/05/19-09:05:01.352 508 Level-0 table #115: 5570682 bytes OK
+2024/05/19-09:05:01.356 508 Delete type=0 #111
+2024/05/19-09:05:58.001 514 Level-0 table #117: started
+2024/05/19-09:05:58.169 514 Level-0 table #117: 5647522 bytes OK
+2024/05/19-09:05:58.176 514 Delete type=0 #114
+2024/05/19-09:05:58.180 514 Compacting 4@0 + 4@1 files
+2024/05/19-09:05:58.216 514 Generated table #118@0: 5 keys, 2642720 bytes
+2024/05/19-09:05:58.231 514 Generated table #119@0: 6 keys, 2252166 bytes
+2024/05/19-09:05:58.304 514 Generated table #120@0: 3 keys, 5637861 bytes
+2024/05/19-09:05:58.316 514 Generated table #121@0: 8 keys, 993091 bytes
+2024/05/19-09:05:58.316 514 Compacted 4@0 + 4@1 files => 11525838 bytes
+2024/05/19-09:05:58.320 514 compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/05/19-09:05:58.320 514 Delete type=2 #103
+2024/05/19-09:05:58.320 514 Delete type=2 #104
+2024/05/19-09:05:58.320 514 Delete type=2 #105
+2024/05/19-09:05:58.320 514 Delete type=2 #106
+2024/05/19-09:05:58.320 514 Delete type=2 #110
+2024/05/19-09:05:58.321 514 Delete type=2 #112
+2024/05/19-09:05:58.321 514 Delete type=2 #115
+2024/05/19-09:05:58.321 514 Delete type=2 #117
+2024/05/19-09:05:58.324 514 Compacting 1@1 + 2@2 files
+2024/05/19-09:05:58.335 514 Generated table #122@1: 6 keys, 2480209 bytes
+2024/05/19-09:05:58.351 514 Generated table #123@1: 8 keys, 2615438 bytes
+2024/05/19-09:05:58.352 514 Compacted 1@1 + 2@2 files => 5095647 bytes
+2024/05/19-09:05:58.356 514 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/05/19-09:05:58.356 514 Delete type=2 #60
+2024/05/19-09:05:58.356 514 Delete type=2 #107
+2024/05/19-09:05:58.356 514 Delete type=2 #118

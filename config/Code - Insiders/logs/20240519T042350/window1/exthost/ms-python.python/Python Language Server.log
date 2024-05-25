@@ -1,0 +1,119 @@
+2024-05-19 04:23:52.432 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-19 04:23:52.916 [info] [Info  - 4:23:52 AM] (112692) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-19 04:23:52.916 [info] [Info  - 4:23:52 AM] (112692) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:23:52.930 [info] [Info  - 4:23:52 AM] Auto-Indent enabled
+2024-05-19 04:23:52.931 [info] [Info  - 4:23:52 AM] Auto-Indent enabled
+2024-05-19 04:24:53.924 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-19 04:24:54.402 [info] [Info  - 4:24:54 AM] (113054) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-19 04:24:54.402 [info] [Info  - 4:24:54 AM] (113054) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:24:54.407 [info] [Info  - 4:24:54 AM] (113054) Starting service instance "nvim"
+2024-05-19 04:24:54.412 [info] [Info  - 4:24:54 AM] (113054) Starting service instance "nvimcp1"
+2024-05-19 04:24:54.423 [info] [Info  - 4:24:54 AM] Auto-Indent enabled
+2024-05-19 04:24:54.441 [info] [Info  - 4:24:54 AM] Auto-Indent enabled
+2024-05-19 04:24:54.441 [info] [Info  - 4:24:54 AM] (113054) Setting pythonPath for service "nvim": "/bin/python"
+2024-05-19 04:24:54.441 [info] [Info  - 4:24:54 AM] (113054) Setting environmentName for service "nvim": "3.12.3 (global)"
+2024-05-19 04:24:54.464 [info] [Info  - 4:24:54 AM] (113054) Assuming Python version 3.12.3.final.0
+2024-05-19 04:24:54.574 [info] [Info  - 4:24:54 AM] (113054) No source files found.
+2024-05-19 04:24:54.576 [info] [Info  - 4:24:54 AM] Auto-Indent enabled
+2024-05-19 04:24:54.576 [info] [Info  - 4:24:54 AM] (113054) Setting pythonPath for service "nvimcp1": "/bin/python"
+2024-05-19 04:24:54.576 [info] [Info  - 4:24:54 AM] (113054) Setting environmentName for service "nvimcp1": "3.12.3 (global)"
+2024-05-19 04:24:54.599 [info] [Info  - 4:24:54 AM] (113054) Assuming Python version 3.12.3.final.0
+2024-05-19 04:24:54.676 [info] [Info  - 4:24:54 AM] (113054) No source files found.
+2024-05-19 04:24:54.677 [info] [Info  - 4:24:54 AM] Auto-Indent enabled
+2024-05-19 04:24:54.851 [info] [Info  - 4:24:54 AM] (113054) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:24:54.851 [info] [Info  - 4:24:54 AM] (113054) Background analysis(2) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:24:54.853 [info] [Info  - 4:24:54 AM] (113054) Background analysis(1) started
+2024-05-19 04:24:54.854 [info] [Info  - 4:24:54 AM] (113054) Background analysis(2) started
+2024-05-19 04:25:45.648 [info] [Info  - 4:25:45 AM] (113054) Starting service instance "<default>"
+2024-05-19 04:25:45.662 [info] [Info  - 4:25:45 AM] Auto-Indent enabled
+2024-05-19 04:25:45.663 [info] [Info  - 4:25:45 AM] (113054) Setting pythonPath for service "<default>": "/bin/python"
+2024-05-19 04:25:45.663 [info] [Info  - 4:25:45 AM] (113054) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-05-19 04:25:45.685 [info] [Info  - 4:25:45 AM] (113054) Assuming Python version 3.12.3.final.0
+2024-05-19 04:25:45.824 [info] [Info  - 4:25:45 AM] (113054) No source files found.
+2024-05-19 04:25:46.081 [info] [Info  - 4:25:46 AM] (113054) Background analysis(3) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:25:46.083 [info] [Info  - 4:25:46 AM] (113054) Background analysis(3) started
+2024-05-19 04:28:50.943 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-19 04:28:51.395 [info] [Info  - 4:28:51 AM] (114033) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-19 04:28:51.395 [info] [Info  - 4:28:51 AM] (114033) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:28:51.400 [info] [Info  - 4:28:51 AM] (114033) Starting service instance "nvim"
+2024-05-19 04:28:51.405 [info] [Info  - 4:28:51 AM] (114033) Starting service instance "nvimcp1"
+2024-05-19 04:28:51.416 [info] [Info  - 4:28:51 AM] Auto-Indent enabled
+2024-05-19 04:28:51.430 [info] [Info  - 4:28:51 AM] Auto-Indent enabled
+2024-05-19 04:28:51.431 [info] [Info  - 4:28:51 AM] (114033) Setting pythonPath for service "nvim": "/bin/python"
+2024-05-19 04:28:51.431 [info] [Info  - 4:28:51 AM] (114033) Setting environmentName for service "nvim": "3.12.3 (global)"
+2024-05-19 04:28:51.455 [info] [Info  - 4:28:51 AM] (114033) Assuming Python version 3.12.3.final.0
+2024-05-19 04:28:51.573 [info] [Info  - 4:28:51 AM] (114033) No source files found.
+2024-05-19 04:28:51.576 [info] [Info  - 4:28:51 AM] Auto-Indent enabled
+2024-05-19 04:28:51.577 [info] [Info  - 4:28:51 AM] (114033) Setting pythonPath for service "nvimcp1": "/bin/python"
+2024-05-19 04:28:51.577 [info] [Info  - 4:28:51 AM] (114033) Setting environmentName for service "nvimcp1": "3.12.3 (global)"
+2024-05-19 04:28:51.600 [info] [Info  - 4:28:51 AM] (114033) Assuming Python version 3.12.3.final.0
+2024-05-19 04:28:51.684 [info] [Info  - 4:28:51 AM] (114033) No source files found.
+2024-05-19 04:28:51.686 [info] [Info  - 4:28:51 AM] Auto-Indent enabled
+2024-05-19 04:28:51.846 [info] [Info  - 4:28:51 AM] (114033) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:28:51.849 [info] [Info  - 4:28:51 AM] (114033) Background analysis(1) started
+2024-05-19 04:28:51.849 [info] [Info  - 4:28:51 AM] (114033) Background analysis(2) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:28:51.852 [info] [Info  - 4:28:51 AM] (114033) Background analysis(2) started
+2024-05-19 04:28:55.496 [info] [Info  - 4:28:55 AM] Server process exited successfully
+2024-05-19 04:28:56.107 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-19 04:28:56.571 [info] [Info  - 4:28:56 AM] (114114) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-19 04:28:56.571 [info] [Info  - 4:28:56 AM] (114114) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:28:56.577 [info] [Info  - 4:28:56 AM] (114114) Starting service instance "nvim"
+2024-05-19 04:28:56.582 [info] [Info  - 4:28:56 AM] (114114) Starting service instance "nvimcp1"
+2024-05-19 04:28:56.594 [info] [Info  - 4:28:56 AM] Auto-Indent enabled
+2024-05-19 04:28:56.620 [info] [Info  - 4:28:56 AM] Auto-Indent enabled
+2024-05-19 04:28:56.620 [info] [Info  - 4:28:56 AM] (114114) Setting pythonPath for service "nvim": "/bin/python"
+2024-05-19 04:28:56.620 [info] [Info  - 4:28:56 AM] (114114) Setting environmentName for service "nvim": "3.12.3 (global)"
+2024-05-19 04:28:56.644 [info] [Info  - 4:28:56 AM] (114114) Assuming Python version 3.12.3.final.0
+2024-05-19 04:28:56.759 [info] [Info  - 4:28:56 AM] (114114) No source files found.
+2024-05-19 04:28:56.762 [info] [Info  - 4:28:56 AM] Auto-Indent enabled
+2024-05-19 04:28:56.762 [info] [Info  - 4:28:56 AM] (114114) Setting pythonPath for service "nvimcp1": "/bin/python"
+2024-05-19 04:28:56.762 [info] [Info  - 4:28:56 AM] (114114) Setting environmentName for service "nvimcp1": "3.12.3 (global)"
+2024-05-19 04:28:56.786 [info] [Info  - 4:28:56 AM] (114114) Assuming Python version 3.12.3.final.0
+2024-05-19 04:28:56.872 [info] [Info  - 4:28:56 AM] (114114) No source files found.
+2024-05-19 04:28:56.873 [info] [Info  - 4:28:56 AM] Auto-Indent enabled
+2024-05-19 04:28:57.032 [info] [Info  - 4:28:57 AM] (114114) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:28:57.034 [info] [Info  - 4:28:57 AM] (114114) Background analysis(2) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:28:57.035 [info] [Info  - 4:28:57 AM] (114114) Background analysis(1) started
+2024-05-19 04:28:57.037 [info] [Info  - 4:28:57 AM] (114114) Background analysis(2) started
+2024-05-19 04:30:37.844 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-19 04:30:38.306 [info] [Info  - 4:30:38 AM] (114457) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-19 04:30:38.306 [info] [Info  - 4:30:38 AM] (114457) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:30:38.309 [info] [Info  - 4:30:38 AM] (114457) Starting service instance "nvim"
+2024-05-19 04:30:38.316 [info] [Info  - 4:30:38 AM] (114457) Starting service instance "nvimcp1"
+2024-05-19 04:30:38.346 [info] [Info  - 4:30:38 AM] Auto-Indent enabled
+2024-05-19 04:30:38.376 [info] [Info  - 4:30:38 AM] Auto-Indent enabled
+2024-05-19 04:30:38.380 [info] [Info  - 4:30:38 AM] (114457) Setting pythonPath for service "nvim": "/bin/python"
+2024-05-19 04:30:38.380 [info] [Info  - 4:30:38 AM] (114457) Setting environmentName for service "nvim": "3.12.3 (global)"
+2024-05-19 04:30:38.405 [info] [Info  - 4:30:38 AM] (114457) Assuming Python version 3.12.3.final.0
+2024-05-19 04:30:38.525 [info] [Info  - 4:30:38 AM] (114457) No source files found.
+2024-05-19 04:30:38.527 [info] [Info  - 4:30:38 AM] Auto-Indent enabled
+2024-05-19 04:30:38.527 [info] [Info  - 4:30:38 AM] (114457) Setting pythonPath for service "nvimcp1": "/bin/python"
+2024-05-19 04:30:38.528 [info] [Info  - 4:30:38 AM] (114457) Setting environmentName for service "nvimcp1": "3.12.3 (global)"
+2024-05-19 04:30:38.551 [info] [Info  - 4:30:38 AM] (114457) Assuming Python version 3.12.3.final.0
+2024-05-19 04:30:38.639 [info] [Info  - 4:30:38 AM] (114457) No source files found.
+2024-05-19 04:30:38.640 [info] [Info  - 4:30:38 AM] Auto-Indent enabled
+2024-05-19 04:30:38.774 [info] [Info  - 4:30:38 AM] (114457) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:30:38.776 [info] [Info  - 4:30:38 AM] (114457) Background analysis(1) started
+2024-05-19 04:30:38.792 [info] [Info  - 4:30:38 AM] (114457) Background analysis(2) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:30:38.792 [info] [Info  - 4:30:38 AM] (114457) Background analysis(2) started
+2024-05-19 04:30:58.572 [info] (Client) Pylance async client (2024.5.101) started with python extension (2024.7.11371014)
+2024-05-19 04:30:59.035 [info] [Info  - 4:30:59 AM] (114606) Pylance language server 2024.5.101 (pyright version 1.1.362, commit 7be85982) starting
+2024-05-19 04:30:59.035 [info] [Info  - 4:30:59 AM] (114606) Server root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:30:59.039 [info] [Info  - 4:30:59 AM] (114606) Starting service instance "nvim"
+2024-05-19 04:30:59.045 [info] [Info  - 4:30:59 AM] (114606) Starting service instance "nvimcp1"
+2024-05-19 04:30:59.075 [info] [Info  - 4:30:59 AM] Auto-Indent enabled
+2024-05-19 04:30:59.113 [info] [Info  - 4:30:59 AM] Auto-Indent enabled
+2024-05-19 04:30:59.116 [info] [Info  - 4:30:59 AM] (114606) Setting pythonPath for service "nvim": "/bin/python"
+2024-05-19 04:30:59.116 [info] [Info  - 4:30:59 AM] (114606) Setting environmentName for service "nvim": "3.12.3 (global)"
+2024-05-19 04:30:59.142 [info] [Info  - 4:30:59 AM] (114606) Assuming Python version 3.12.3.final.0
+2024-05-19 04:30:59.261 [info] [Info  - 4:30:59 AM] (114606) No source files found.
+2024-05-19 04:30:59.265 [info] [Info  - 4:30:59 AM] Auto-Indent enabled
+2024-05-19 04:30:59.267 [info] [Info  - 4:30:59 AM] (114606) Setting pythonPath for service "nvimcp1": "/bin/python"
+2024-05-19 04:30:59.267 [info] [Info  - 4:30:59 AM] (114606) Setting environmentName for service "nvimcp1": "3.12.3 (global)"
+2024-05-19 04:30:59.289 [info] [Info  - 4:30:59 AM] (114606) Assuming Python version 3.12.3.final.0
+2024-05-19 04:30:59.371 [info] [Info  - 4:30:59 AM] (114606) No source files found.
+2024-05-19 04:30:59.374 [info] [Info  - 4:30:59 AM] Auto-Indent enabled
+2024-05-19 04:30:59.502 [info] [Info  - 4:30:59 AM] (114606) Background analysis(1) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:30:59.504 [info] [Info  - 4:30:59 AM] (114606) Background analysis(1) started
+2024-05-19 04:30:59.531 [info] [Info  - 4:30:59 AM] (114606) Background analysis(2) root directory: file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101/dist
+2024-05-19 04:30:59.532 [info] [Info  - 4:30:59 AM] (114606) Background analysis(2) started

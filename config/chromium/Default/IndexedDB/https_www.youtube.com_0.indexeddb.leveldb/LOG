@@ -1,0 +1,6 @@
+2024/05/19-06:18:58.068 20fff Reusing MANIFEST /home/colinkiesling/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/19-06:18:58.069 20fff Recovering log #3
+2024/05/19-06:18:58.086 20fff Reusing old log /home/colinkiesling/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/05/19-06:19:07.567 20ffc Level-0 table #5: started
+2024/05/19-06:19:07.580 20ffc Level-0 table #5: 1232800 bytes OK
+2024/05/19-06:19:07.585 20ffc Delete type=0 #3

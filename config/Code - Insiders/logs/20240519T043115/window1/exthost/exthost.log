@@ -1,0 +1,59 @@
+2024-05-19 04:31:16.716 [info] Extension host with pid 114856 started
+2024-05-19 04:31:16.716 [info] Skipping acquiring lock for /home/colinkiesling/.config/Code - Insiders/User/workspaceStorage/aee0086072c6eb9696d34ae39f53f395.
+2024-05-19 04:31:16.977 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-19 04:31:17.030 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-19 04:31:17.032 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-05-19 04:31:17.165 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-19 04:31:17.187 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-19 04:31:17.256 [info] Eager extensions activated
+2024-05-19 04:31:17.300 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:17.302 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:17.307 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:17.309 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:17.339 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:17.444 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:17.530 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:17.533 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-19 04:31:18.910 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-19 04:32:48.557 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:32:48.558 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:49.086 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:32:49.086 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:49.686 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:32:49.686 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:49.872 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:32:49.872 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:52.236 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:32:52.236 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:53.555 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:32:53.555 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:54.054 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:32:54.054 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:37:45.003 [error] [GitHub.copilot-chat] provider FAILED
+2024-05-19 04:37:45.004 [error] TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 06:10:29.383 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-19 06:10:29.424 [info] Extension host with pid 114856 exiting with code 0

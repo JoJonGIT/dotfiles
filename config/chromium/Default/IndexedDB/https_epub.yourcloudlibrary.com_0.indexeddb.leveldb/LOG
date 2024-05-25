@@ -1,0 +1,25 @@
+2024/05/09-11:42:34.105 1522e Reusing MANIFEST /home/colinkiesling/.config/chromium/Default/IndexedDB/https_epub.yourcloudlibrary.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/09-11:42:34.105 1522e Recovering log #21
+2024/05/09-11:42:34.105 1522e Reusing old log /home/colinkiesling/.config/chromium/Default/IndexedDB/https_epub.yourcloudlibrary.com_0.indexeddb.leveldb/000021.log 
+2024/05/09-11:42:34.105 1522e Delete type=2 #20
+2024/05/09-11:42:34.117 15239 Level-0 table #26: started
+2024/05/09-11:42:34.121 15239 Level-0 table #26: 2079 bytes OK
+2024/05/09-11:42:34.127 15239 Delete type=0 #21
+2024/05/09-11:42:34.127 15239 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 299 : 1
+2024/05/09-11:42:34.127 15239 Compacting 1@0 + 1@1 files
+2024/05/09-11:42:34.130 15239 Generated table #27@0: 22 keys, 1399 bytes
+2024/05/09-11:42:34.130 15239 Compacted 1@0 + 1@1 files => 1399 bytes
+2024/05/09-11:42:34.134 15239 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/09-11:42:34.134 15239 Delete type=2 #26
+2024/05/09-11:42:34.134 1522e Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 299 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/09-11:42:34.135 1522e Level-0 table #29: started
+2024/05/09-11:42:34.136 1522e Level-0 table #29: 1885 bytes OK
+2024/05/09-11:42:34.140 1522e Delete type=2 #23
+2024/05/09-11:42:34.140 1522e Delete type=0 #25
+2024/05/09-11:42:34.141 1522e Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 316 : 1
+2024/05/09-11:42:34.141 1522e Compacting 1@0 + 1@1 files
+2024/05/09-11:42:34.143 1522e Generated table #30@0: 22 keys, 1517 bytes
+2024/05/09-11:42:34.143 1522e Compacted 1@0 + 1@1 files => 1517 bytes
+2024/05/09-11:42:34.146 1522e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/09-11:42:34.146 1522e Delete type=2 #29
+2024/05/09-11:42:34.147 1522e Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 316 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

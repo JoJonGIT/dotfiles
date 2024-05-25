@@ -1,0 +1,7 @@
+require("cies.settings")
+require("cies.plugins")
+require("cies.alpha")
+require("cies.keymaps")
+require("cies.lualine")
+require("cies.mason")
+require("cies.transparency")

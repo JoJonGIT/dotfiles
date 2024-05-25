@@ -1,0 +1,62 @@
+2024-05-18 23:29:53.095 [info] Getting Manifest... ms-python.python
+2024-05-18 23:29:53.104 [info] Installing extension: ms-python.python vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:53.409 [info] Getting Manifest... ms-python.vscode-pylance
+2024-05-18 23:29:53.427 [info] Getting Manifest... ms-python.debugpy
+2024-05-18 23:29:53.512 [info] Installing extension: ms-python.vscode-pylance vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:53.512 [info] Installing extension: ms-python.debugpy vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:55.200 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 10ms.
+2024-05-18 23:29:55.526 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:55.562 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.debugpy-2024.7.11371019-linux-x64: ms-python.debugpy
+2024-05-18 23:29:55.567 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/ms-python.debugpy-2024.7.11371019-linux-x64
+2024-05-18 23:29:55.651 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:29:56.737 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014: ms-python.python
+2024-05-18 23:29:56.744 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014
+2024-05-18 23:29:56.831 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:29:57.002 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 14ms.
+2024-05-18 23:29:59.664 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101: ms-python.vscode-pylance
+2024-05-18 23:29:59.672 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/ms-python.vscode-pylance-2024.5.101
+2024-05-18 23:29:59.730 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:59.730 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:59.730 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:59.756 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:34:09.606 [info] Getting Manifest... ericsia.pythonsnippets3
+2024-05-18 23:34:09.613 [info] Installing extension: ericsia.pythonsnippets3 vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:34:10.193 [info] Extension signature verification result for ericsia.pythonsnippets3: UnknownError. Executed: true. Duration: 9ms.
+2024-05-18 23:34:10.216 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/ericsia.pythonsnippets3-3.3.20: ericsia.pythonsnippets3
+2024-05-18 23:34:10.219 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/ericsia.pythonsnippets3-3.3.20
+2024-05-18 23:34:10.282 [info] Extension installed successfully: ericsia.pythonsnippets3 vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:34:10.306 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:34:51.453 [info] Uninstalling extension from the profile: ericsia.pythonsnippets3@3.3.20 vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:34:51.475 [info] Marked extension as uninstalled ericsia.pythonsnippets3-3.3.20
+2024-05-18 23:34:51.545 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:34:51.674 [info] Successfully uninstalled extension from the profile ericsia.pythonsnippets3@3.3.20 vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json

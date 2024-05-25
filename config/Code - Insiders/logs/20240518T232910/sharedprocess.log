@@ -1,0 +1,117 @@
+2024-05-18 23:29:12.215 [info] Started initializing default profile extensions in extensions installation folder. file:///home/colinkiesling/.vscode-insiders/extensions
+2024-05-18 23:29:12.286 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/colinkiesling/.vscode-insiders/extensions Unable to create file 'vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-05-18 23:29:12.286 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/colinkiesling/.vscode-insiders/extensions
+2024-05-18 23:29:32.764 [info] Getting Manifest... juwanpetty.github-icons-for-vscode
+2024-05-18 23:29:32.764 [info] Getting Manifest... veoper.felina
+2024-05-18 23:29:32.765 [info] Getting Manifest... omthemes.omthemes
+2024-05-18 23:29:32.765 [info] Getting Manifest... fireblast.hyprlang-vscode
+2024-05-18 23:29:32.765 [info] Getting Manifest... sumneko.lua
+2024-05-18 23:29:32.765 [info] Getting Manifest... christian-kohler.path-intellisense
+2024-05-18 23:29:32.765 [info] Getting Manifest... naumovs.color-highlight
+2024-05-18 23:29:32.765 [info] Getting Manifest... pkief.material-icon-theme
+2024-05-18 23:29:32.765 [info] Getting Manifest... esbenp.prettier-vscode
+2024-05-18 23:29:32.766 [info] Getting Manifest... golang.go
+2024-05-18 23:29:32.766 [info] Getting Manifest... github.copilot
+2024-05-18 23:29:32.766 [info] Getting Manifest... ecmel.vscode-html-css
+2024-05-18 23:29:32.766 [info] Getting Manifest... github.copilot-chat
+2024-05-18 23:29:32.909 [info] Installing extension: github.copilot-chat vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.910 [info] Installing extension: github.copilot vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.910 [info] Installing extension: juwanpetty.github-icons-for-vscode vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.910 [info] Installing extension: pkief.material-icon-theme vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.910 [info] Installing extension: ecmel.vscode-html-css vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.910 [info] Installing extension: omthemes.omthemes vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.910 [info] Installing extension: veoper.felina vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.911 [info] Installing extension: christian-kohler.path-intellisense vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.911 [info] Installing extension: esbenp.prettier-vscode vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.911 [info] Installing extension: golang.go vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.911 [info] Installing extension: sumneko.lua vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.911 [info] Installing extension: naumovs.color-highlight vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.911 [info] Installing extension: fireblast.hyprlang-vscode vscode-userdata:/home/colinkiesling/.vscode-insiders/extensions/extensions.json
+2024-05-18 23:29:32.911 [info] Installing the extension without checking dependencies and pack github.copilot-chat
+2024-05-18 23:29:32.911 [info] Installing the extension without checking dependencies and pack github.copilot
+2024-05-18 23:29:32.912 [info] Installing the extension without checking dependencies and pack juwanpetty.github-icons-for-vscode
+2024-05-18 23:29:32.912 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2024-05-18 23:29:32.912 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2024-05-18 23:29:32.912 [info] Installing the extension without checking dependencies and pack omthemes.omthemes
+2024-05-18 23:29:32.912 [info] Installing the extension without checking dependencies and pack veoper.felina
+2024-05-18 23:29:32.912 [info] Installing the extension without checking dependencies and pack christian-kohler.path-intellisense
+2024-05-18 23:29:32.912 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2024-05-18 23:29:32.913 [info] Installing the extension without checking dependencies and pack golang.go
+2024-05-18 23:29:32.913 [info] Installing the extension without checking dependencies and pack sumneko.lua
+2024-05-18 23:29:32.913 [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+2024-05-18 23:29:32.913 [info] Installing the extension without checking dependencies and pack fireblast.hyprlang-vscode
+2024-05-18 23:29:33.649 [info] Extension signature verification result for ecmel.vscode-html-css: UnknownError. Executed: true. Duration: 6ms.
+2024-05-18 23:29:33.659 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/ecmel.vscode-html-css-2.0.9: ecmel.vscode-html-css
+2024-05-18 23:29:33.662 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/ecmel.vscode-html-css-2.0.9
+2024-05-18 23:29:33.750 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:29:33.801 [info] Extension signature verification result for christian-kohler.path-intellisense: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:33.808 [info] Extension signature verification result for golang.go: UnknownError. Executed: true. Duration: 6ms.
+2024-05-18 23:29:33.809 [info] Extension signature verification result for naumovs.color-highlight: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:33.916 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/christian-kohler.path-intellisense-2.8.5: christian-kohler.path-intellisense
+2024-05-18 23:29:33.919 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/golang.go-0.41.4: golang.go
+2024-05-18 23:29:33.921 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/christian-kohler.path-intellisense-2.8.5
+2024-05-18 23:29:33.927 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/golang.go-0.41.4
+2024-05-18 23:29:33.996 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:29:34.036 [info] Extension signature verification result for veoper.felina: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:34.051 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/veoper.felina-0.0.2: veoper.felina
+2024-05-18 23:29:34.054 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/veoper.felina-0.0.2
+2024-05-18 23:29:34.132 [info] Extension signature verification result for fireblast.hyprlang-vscode: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:34.154 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/fireblast.hyprlang-vscode-0.0.1: fireblast.hyprlang-vscode
+2024-05-18 23:29:34.159 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/fireblast.hyprlang-vscode-0.0.1
+2024-05-18 23:29:34.285 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/naumovs.color-highlight-2.8.0: naumovs.color-highlight
+2024-05-18 23:29:34.288 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/naumovs.color-highlight-2.8.0
+2024-05-18 23:29:34.444 [info] Extension signature verification result for omthemes.omthemes: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:34.510 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/omthemes.omthemes-1.0.17: omthemes.omthemes
+2024-05-18 23:29:34.514 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/omthemes.omthemes-1.0.17
+2024-05-18 23:29:34.603 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:29:34.621 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:34.661 [info] Extension signature verification result for pkief.material-icon-theme: UnknownError. Executed: true. Duration: 6ms.
+2024-05-18 23:29:34.717 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/esbenp.prettier-vscode-10.4.0: esbenp.prettier-vscode
+2024-05-18 23:29:34.730 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/esbenp.prettier-vscode-10.4.0
+2024-05-18 23:29:34.799 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:29:35.002 [info] Extension signature verification result for juwanpetty.github-icons-for-vscode: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:35.065 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 5ms.
+2024-05-18 23:29:35.067 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/juwanpetty.github-icons-for-vscode-1.3.0: juwanpetty.github-icons-for-vscode
+2024-05-18 23:29:35.072 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/juwanpetty.github-icons-for-vscode-1.3.0
+2024-05-18 23:29:35.162 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)
+2024-05-18 23:29:35.282 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/pkief.material-icon-theme-5.1.0: pkief.material-icon-theme
+2024-05-18 23:29:35.285 [info] Extracted extension to file:///home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.15.2: github.copilot-chat
+2024-05-18 23:29:35.287 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/pkief.material-icon-theme-5.1.0
+2024-05-18 23:29:35.290 [info] Renamed to /home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.15.2
+2024-05-18 23:29:35.375 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/colinkiesling/.vscode-insiders/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30504)
+    at p (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30614)
+    at t.hb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async m.stat (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async X.vb (/opt/visual-studio-code-insiders/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:114905)

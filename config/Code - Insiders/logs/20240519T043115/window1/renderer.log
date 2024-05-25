@@ -1,0 +1,48 @@
+2024-05-19 04:31:16.129 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-05-19 04:31:16.140 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-05-19 04:31:16.140 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-05-19 04:31:16.140 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-05-19 04:31:16.140 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-05-19 04:31:16.533 [info] Started local extension host with pid 114856.
+2024-05-19 04:31:19.655 [info] [perf] Render performance baseline is 40ms
+2024-05-19 04:32:48.561 [error] Cannot read properties of undefined (reading 'range'): TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:49.689 [error] Cannot read properties of undefined (reading 'range'): TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:52.239 [error] Cannot read properties of undefined (reading 'range'): TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:32:53.558 [error] Cannot read properties of undefined (reading 'range'): TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:37:45.007 [error] Cannot read properties of undefined (reading 'range'): TypeError: Cannot read properties of undefined (reading 'range')
+    at wR.convertHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:4164)
+    at wR.provideHover (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:1148:3991)
+    at y.provideHover (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:95154)
+2024-05-19 04:37:48.384 [error] [Extension Host] Sorry, this message is too long. Please try a shorter question.
+2024-05-19 04:37:48.386 [error] [Extension Host] [extension] Error: Sorry, this message is too long. Please try a shorter question.
+    at it.render (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:791:3606)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at t.buildPrompt (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:791:3288)
+    at F6._provideResponseWithProgress (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:867:840)
+    at F6.provideResponseWithProgress (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:865:8991)
+    at n.y (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-chat-0.16.2024051702/dist/extension.js:877:1970)
+    at i.$invokeAgent (/opt/visual-studio-code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:45525)
+2024-05-19 05:46:19.849 [warning] Failed to fetch chat participant registry Offline
+2024-05-19 05:46:38.615 [error] [Extension Host] [default] Error sending telemetry FetchError: getaddrinfo EAI_AGAIN copilot-telemetry.githubusercontent.com
+    at fetch (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-1.194.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-1.194.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at IH.fetch (/home/colinkiesling/.vscode-insiders/extensions/github.copilot-1.194.0/lib/src/network/helix.ts:78:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo'
+}

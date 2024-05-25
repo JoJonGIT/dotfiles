@@ -1,0 +1,125 @@
+2024-05-18 23:30:38.170 [info] Experiment 'pythonaacf' is active
+2024-05-18 23:30:38.170 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-18 23:30:38.170 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-18 23:30:38.170 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-05-18 23:30:38.170 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-18 23:30:38.170 [info] Experiment 'pythonTestAdapter' is active
+2024-05-18 23:30:38.220 [info] Starting Environment refresh
+2024-05-18 23:30:38.221 [info] Searching for interpreters in posix paths locator
+2024-05-18 23:30:38.225 [info] Searching for pyenv environments
+2024-05-18 23:30:38.225 [info] Searching for conda environments
+2024-05-18 23:30:38.225 [info] Searching for global virtual environments
+2024-05-18 23:30:38.225 [info] Searching for custom virtual environments
+2024-05-18 23:30:38.229 [info] pyenv is not installed
+2024-05-18 23:30:38.229 [info] Finished searching for pyenv environments: 8 milliseconds
+2024-05-18 23:30:38.229 [info] Finished searching for custom virtual envs: 7 milliseconds
+2024-05-18 23:30:38.234 [info] > conda info --json
+2024-05-18 23:30:38.239 [info] Finished searching for global virtual envs: 17 milliseconds
+2024-05-18 23:30:38.601 [info] Found: /bin/python --> /bin/python3.12
+2024-05-18 23:30:38.603 [info] Found: /bin/python2 --> /bin/python2.7
+2024-05-18 23:30:38.608 [info] Found: /bin/python2.7 --> /bin/python2.7
+2024-05-18 23:30:38.611 [info] Found: /bin/python3 --> /bin/python3.12
+2024-05-18 23:30:38.611 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-05-18 23:30:38.626 [info] Found: /sbin/python --> /sbin/python3.12
+2024-05-18 23:30:38.626 [info] Found: /sbin/python2 --> /sbin/python2.7
+2024-05-18 23:30:38.626 [info] Found: /sbin/python2.7 --> /sbin/python2.7
+2024-05-18 23:30:38.626 [info] Found: /sbin/python3 --> /sbin/python3.12
+2024-05-18 23:30:38.626 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2024-05-18 23:30:38.629 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-05-18 23:30:38.630 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-05-18 23:30:38.630 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-05-18 23:30:38.630 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-05-18 23:30:38.630 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-05-18 23:30:38.644 [info] Found: /usr/sbin/python --> /usr/sbin/python3.12
+2024-05-18 23:30:38.645 [info] Found: /usr/sbin/python2 --> /usr/sbin/python2.7
+2024-05-18 23:30:38.645 [info] Found: /usr/sbin/python2.7 --> /usr/sbin/python2.7
+2024-05-18 23:30:38.645 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2024-05-18 23:30:38.645 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2024-05-18 23:30:38.656 [info] > /bin/python -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.663 [info] > /bin/python2 -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.668 [warning] [Error: Command failed: /bin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py'
+}
+2024-05-18 23:30:38.668 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-05-18 23:30:38.672 [info] > /bin/python2 ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.677 [info] > /sbin/python -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.693 [info] > /sbin/python2 -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.700 [info] > /usr/bin/python -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.701 [warning] [Error: Command failed: /sbin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /sbin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/sbin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py'
+}
+2024-05-18 23:30:38.701 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-05-18 23:30:38.705 [info] > /sbin/python2 ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.705 [info] Finished searching for interpreters in posix paths locator: 485 milliseconds
+2024-05-18 23:30:38.709 [info] Environments refresh paths discovered (event): 490 milliseconds
+2024-05-18 23:30:38.709 [info] Environments refresh paths discovered: 490 milliseconds
+2024-05-18 23:30:38.713 [info] > /usr/bin/python2 -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.719 [info] > /usr/sbin/python -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.720 [warning] [Error: Command failed: /usr/bin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py'
+}
+2024-05-18 23:30:38.720 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-05-18 23:30:38.724 [info] > /usr/bin/python2 ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.736 [info] > /usr/sbin/python2 -I ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.739 [warning] [Error: Command failed: /usr/sbin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /usr/sbin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/sbin/python2 -I /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py /home/colinkiesling/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py'
+}
+2024-05-18 23:30:38.739 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-05-18 23:30:38.742 [info] > /usr/sbin/python2 ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/get_output_via_markers.py ~/.vscode-insiders/extensions/ms-python.python-2024.7.11371014/python_files/interpreterInfo.py
+2024-05-18 23:30:38.754 [info] Environments refresh finished (event): 535 milliseconds
+2024-05-18 23:30:38.759 [info] Environment refresh took 541 milliseconds
+2024-05-18 23:30:38.762 [info] Python interpreter path: /bin/python
+2024-05-18 23:30:39.781 [info] Starting Pylance language server.
+2024-05-18 23:36:53.998 [info] Send text to terminal:  /usr/bin/env /bin/python /home/colinkiesling/.vscode-insiders/extensions/ms-python.debugpy-2024.7.11371019-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 57813 -- /home/colinkiesling/Documents/py/test.py 

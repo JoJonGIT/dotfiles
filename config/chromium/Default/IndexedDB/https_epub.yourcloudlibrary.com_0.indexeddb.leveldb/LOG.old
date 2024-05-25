@@ -1,0 +1,17 @@
+2024/05/09-11:41:39.997 1522d Reusing MANIFEST /home/colinkiesling/.config/chromium/Default/IndexedDB/https_epub.yourcloudlibrary.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/09-11:41:39.997 1522d Recovering log #14
+2024/05/09-11:41:39.997 1522d Reusing old log /home/colinkiesling/.config/chromium/Default/IndexedDB/https_epub.yourcloudlibrary.com_0.indexeddb.leveldb/000014.log 
+2024/05/09-11:41:40.006 15231 Level-0 table #20: started
+2024/05/09-11:41:40.008 15231 Level-0 table #20: 651 bytes OK
+2024/05/09-11:41:40.014 15231 Delete type=0 #14
+2024/05/09-11:41:40.014 15231 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/09-11:41:40.016 15231 Level-0 table #22: started
+2024/05/09-11:41:40.019 15231 Level-0 table #22: 675 bytes OK
+2024/05/09-11:41:40.023 15231 Delete type=0 #19
+2024/05/09-11:41:40.024 1522e Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 254 : 1
+2024/05/09-11:41:40.024 1522e Compacting 1@0 + 1@1 files
+2024/05/09-11:41:40.027 1522e Generated table #23@0: 11 keys, 673 bytes
+2024/05/09-11:41:40.027 1522e Compacted 1@0 + 1@1 files => 673 bytes
+2024/05/09-11:41:40.044 1522e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/09-11:41:40.045 1522e Delete type=2 #22
+2024/05/09-11:41:40.046 1522e Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 254 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
